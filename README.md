@@ -1,5 +1,7 @@
-Hi, my name is Luis and i am a Creative Technologist.
-I use technology to materialize ideas that otherwise only exist in my head.
+To truly harness the potential of technology, a symbiotic relationship between human and machine is essential, where each enhances and inspires the other. My passion lies at the intersection of creativity and technology, crafting experiences that not only stimulate the mind but also tools to empower individuals to push the boundaries of their creativity.
 
-You can find more about me and my work at [https://luisferreira.tech/](https://luisferreira.tech/).
-Or on social networks: [Instagram](https://www.instagram.com/schuur.creations/), [Facebook](https://www.facebook.com/schuur.creations), [Youtube](https://www.youtube.com/channel/UC_Z4LG-PBuy2fgRyTJ5qKUQ) and [LinkedIn](https://www.linkedin.com/in/luisfferreira/)
+I believe that the most compelling ideas emerge at the crossroads of different disciplines. It fascinates me how we can bridge the gap between the physical and digital worlds using technology, exploring spaces that lie in between. I am captivated by light, LEDs, projections, but also interaction, transforming my work into a two-way conversation with the audience.
+
+My background in Computer Engineering and research in Robotics has revealed how deeply technology is inspired by Nature and living beings. I am driven by curiosity and always eager to collaborate on new projects. If you are interested in working together, please get in touch! 
+
+Find all my online places at [LinkTree](https://linktr.ee/LuisFerreira)
